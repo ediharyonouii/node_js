@@ -1,0 +1,21 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "node js, rest api",
+  "main": "https://github.com/ediharyonouii/node_js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_js"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Edi Haryono",
+  "license": "ISC"
+}
